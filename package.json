@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://SergeiTkachenko.github.io/ice-cream--CrazyFoXXX",
+  "homepage": "https://AnatoliiKobzar.github.io/Ice_cream",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /ice-cream--CrazyFoXXX/"
+    "build": "parcel build src/*.html --public-url /Ice_cream/"
   },
   "repository": {
     "type": "git",
